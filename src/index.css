@@ -76,10 +76,9 @@
   }
   
   * {
-    @apply border-border;
-  }
-  
+    @apply border-border;  }
   html {
+    scroll-padding-top: 5rem; /* Offset for sticky nav */
     scroll-behavior: smooth;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
