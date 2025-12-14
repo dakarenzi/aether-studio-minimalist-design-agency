@@ -1,6 +1,6 @@
 # Aether Studio - Minimalist Design Agency
 
-[![Deploy to Cloudflare][cloudflarebutton]]
+[![Deploy to Cloudflare][![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dakarenzi/aether-studio-minimalist-design-agency)]
 
 A breathtaking, minimalist portfolio website for a high-end design agency featuring smooth interactions and a monochromatic aesthetic. Aether Studio embodies the principles of 'Minimalist Design' as a stunning single-page scrolling experience (SPA) that showcases premium portfolio work, services, and contact inquiry in an elegant, narrative-driven layout.
 
@@ -91,7 +91,7 @@ bun run deploy
 
 This builds the app and deploys via Wrangler. Ensure you're logged in with `wrangler login`.
 
-[![Deploy to Cloudflare][cloudflarebutton]]
+[![Deploy to Cloudflare][![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dakarenzi/aether-studio-minimalist-design-agency)]
 
 **Configuration**:
 - Project name and assets handled in `wrangler.jsonc`.
